@@ -1,0 +1,6 @@
+numpy>=1.26
+pandas>=2.1
+flask>=3.0
+requests>=2.31
+# development / tests
+pytest>=8.0

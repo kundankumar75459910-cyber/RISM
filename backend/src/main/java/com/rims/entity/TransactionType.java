@@ -1,0 +1,5 @@
+package com.rims.entity;
+
+public enum TransactionType {
+    INITIAL_STOCK, PURCHASE_RECEIVED, SALE, ADJUSTMENT_IN, ADJUSTMENT_OUT, TRANSFER_IN, TRANSFER_OUT
+}
